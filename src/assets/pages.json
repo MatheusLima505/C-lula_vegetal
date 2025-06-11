@@ -1,0 +1,57 @@
+[
+  {
+    "link": "",
+    "title": "Início",
+    "text": "FODASE"
+  },
+  {
+    "link": "citoplasma",
+    "title": "Citoplasma",
+    "text": ""
+  },
+  {
+    "link": "nucleolo",
+    "title": "Nucléolo",
+    "text": "O nucléolo é uma estrutura densa e não membranosa da célula eucariontes localizada dentro do núcleo, formado por RNA ribossomal (RNAr) e proteínas. Dentro do nucléolo, quando o RNAr se une com proteínas importadas do citoplasma, são formadas subunidades ribossomais, que são liberadas no citoplasma para que sejam montados os ribossomos."
+  },
+  {
+    "link": "nucleo",
+    "title": "Núcleo",
+    "text": "O núcleo é uma organela presente nas células eucariontes, responsável por atuar como seu centro de comando, regulando reações químicas na célula e armazenando informações genéticas com o DNA."
+  },
+  {
+    "link": "mem-nuc",
+    "title": "Membrana nuclear",
+    "text": "Também chamada de carioteca e envoltório nuclear, é uma camada de dupla membrana que envolve o núcleo e o separa do citoplasma. Além de proteger o material genético, ela também controla a entrada e saída de proteínas e de RNA através de poros"
+  },
+  {
+    "link": "peroxisoma",
+    "title": "Peroxisoma",
+    "text": "São pequenas organelas envoltas por uma membrana, muito presente em células dos rins e fígados de mamíferos. Suas principais funções envolvem digerir substâncias (devido ao fato de seu interior ser rico em enzimas oxidases, que neutraliza substâncias como ácidos graxos e álcool) e realizar o metabolismo de lipídios (produzindo colesterol e ácidos biliares)."
+  },
+  {
+    "link": "ret-endo",
+    "title": "Retículo endoplasmático",
+    "text": ""
+  },
+  {
+    "link": "apa-gol",
+    "title": "Aparato de Golgi",
+    "text": ""
+  },
+  {
+    "link": "mitocondria",
+    "title": "Mitocôndria",
+    "text": ""
+  },
+  {
+    "link": "tonoplasto",
+    "title": "Tonoplasto",
+    "text": ""
+  },
+  {
+    "link": "vacuola",
+    "title": "Vacuola",
+    "text": ""
+  }
+]
