@@ -11,7 +11,7 @@ function Header() {
 
   return (
     <>
-      <h1 className="header-title">Biologia</h1>
+      <h1 className="header-title">Citologia</h1>
       <nav className="navButtons">
         {pages.map((page, index) => (
           <button
