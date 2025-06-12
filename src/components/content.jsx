@@ -1,8 +1,6 @@
 import pages from './../assets/pages.json';
 import './../home.css'; // importar css
 
-
-
 function Content({ pindex }) {
   const spage = pages[pindex];
   function Image({img}) {
